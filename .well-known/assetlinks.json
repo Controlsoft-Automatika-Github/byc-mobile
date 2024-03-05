@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.controlsoft_automatika_github.twa.test",
+        "sha256_cert_fingerprints": ["95:D0:68:8F:AC:BD:D2:4E:8E:C1:E6:4D:BB:23:0A:F1:A0:AE:05:EA:19:CE:65:1B:60:F5:89:FC:7D:B4:E8:AB"]
+      }
+    }]
